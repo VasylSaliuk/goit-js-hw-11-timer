@@ -26,7 +26,8 @@ body {
   text-align: justify;
 }
 
-h1 {
+#headline {
+  color: teal;
   font-weight: normal;
   letter-spacing: 0.125em;
   text-transform: uppercase;
